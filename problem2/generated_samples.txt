@@ -1,0 +1,59 @@
+=== temperature 0.2 | top-k 20 | 500 characters | prompt "\n" | sampling seed 0 ===
+The father of the common of the first of the father
+And the first of the state of the stands,
+And the son the world of the part of the sent
+That sent and the stand of the fair of the stand
+The prove and the prince of the people of the stands
+And the sent of the prince of the country,
+And the first of the state of the state,
+And the father of the prove and so the world
+Than the senter of the stander of the country.
+
+CORIOLANUS:
+What I will be so so man a prove to the stander
+Than the senter of th
+
+=== temperature 0.8 | top-k 20 | 500 characters | prompt "\n" | sampling seed 0 ===
+That make the prevail'd called and all the steen
+Thou would for bear? he hath bleepen some on
+For that of the wake a man: what thour needs,
+And I have by the right in his gall to him,
+Come, I shall be my prayer in mile.
+Would the mark too the flain, in this med
+And noble in born to the good to my hand.
+
+LORD GHENRY VI:
+With hath live tost me, and you of heavens.
+
+GLOUCESTER:
+And will the not blood, I not pretty,
+Shall I am soul, and time this loves move
+In fair thinous cursel come, that he strav
+
+=== temperature 1.5 | top-k 20 | 500 characters | prompt "\n" | sampling seed 0 ===
+Thyrefore what selter?
+How never by yourgels fague
+Dispose thither. My strught seepelins.
+3 KING HENRY VI
+
+Mesiraber:
+Ressenay thour need hath soor purpot to acmfalious,
+Like the parts up thus next of my prayerfies.
+
+HATWISTINGS:
+Nor I come?
+
+GORGZEGAABETET:
+Romeo!
+
+BUCKINGHAM OF CATRER:
+A rathmod age..
+HORTEGSBY:
+Me love?
+
+Provost:
+I have must to brazed bids by wemptuaing: well wilr
+was not black, I. Thou willow now unfathe;
+Mirderering thief, and move'd
+Dines, but, secuty'll I--like a cometriv
+
