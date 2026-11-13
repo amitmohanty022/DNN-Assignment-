@@ -1,0 +1,10 @@
+# exact versions used for the submitted run (Python 3.11.15, CPU build of PyTorch)
+torch==2.15.0
+numpy==2.4.6
+pandas==3.1.1
+matplotlib==3.11.2
+scikit-learn==1.9.1
+# only needed to execute the notebooks from the command line (Colab already has them)
+nbformat==5.11.1
+nbconvert==7.17.2
+ipykernel==7.4.0
