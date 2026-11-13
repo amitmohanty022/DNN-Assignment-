@@ -1,6 +1,6 @@
 # DNN Assignment 2 - RNN, LSTM, GRU and Transformer
 
-**Name:** ____________ **Student ID:** 2026AJ05290
+**Name:** Amit Kumar Mohanty **Student ID:** 2026AJ05290
 
 ## My choices
 - Hidden size **h = 64** for the RNN, LSTM and GRU (the same for all three).
